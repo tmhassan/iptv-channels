@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="suntv.in" tvg-name="SUN TV HD" group-title="Indian",SUN TV HD
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet" group-title="Indian",Asianet
+https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
+
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies" group-title="Indian",Asianet Movies
+https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
